@@ -19,6 +19,9 @@ table td, th{
     padding:10px;
 
 }
+table th{
+    background-color:dodgerblue;
+}
 
 table tr:nth-child(even){
     background-color:#f1f1f1;
